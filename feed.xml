@@ -14,8 +14,8 @@
         <author>
             <name>jak woda</name>
         </author>
-        <link href="https://jakwoda.github.io/riso.html"/>
-        <id>https://jakwoda.github.io/riso.html</id>
+        <link href="https://jakwoda.github.io/riso/"/>
+        <id>https://jakwoda.github.io/riso/</id>
         <media:content url="https://jakwoda.github.io/media/posts/1/Screenshot-2023-02-20-at-18.03.25-2.png" medium="image" />
 
         <updated>2026-03-11T12:35:53+01:00</updated>
@@ -24,8 +24,8 @@
             <![CDATA[
                     <p><img src="https://jakwoda.github.io/media/posts/1/Screenshot-2023-02-20-at-18.03.25-2.png" class="type:primaryImage" alt="" /></p>
                 <ul>
-<li><figure class="post__image"><img loading="lazy"  src="https://jakwoda.github.io/media/posts/1/Screenshot-2023-02-20-at-17.23.14.png" alt="" width="2062" height="1156" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jakwoda.github.io/media/posts/1/responsive/Screenshot-2023-02-20-at-17.23.14-xs.png 300w ,https://jakwoda.github.io/media/posts/1/responsive/Screenshot-2023-02-20-at-17.23.14-sm.png 480w ,https://jakwoda.github.io/media/posts/1/responsive/Screenshot-2023-02-20-at-17.23.14-md.png 768w"></figure></li>
-<li><a></a><figure class="post__image"><img  src="https://jakwoda.github.io/media/posts/1/MateuszMieciekRisoPres-2.pdf" alt=""></figure><figure class="post__image"><img loading="lazy"  src="https://jakwoda.github.io/media/posts/1/Screenshot-2023-02-27-at-20.37.00.png" alt="" width="2686" height="1688" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jakwoda.github.io/media/posts/1/responsive/Screenshot-2023-02-27-at-20.37.00-xs.png 300w ,https://jakwoda.github.io/media/posts/1/responsive/Screenshot-2023-02-27-at-20.37.00-sm.png 480w ,https://jakwoda.github.io/media/posts/1/responsive/Screenshot-2023-02-27-at-20.37.00-md.png 768w"></figure></li>
+<li><figure class="post__image"><img loading="lazy"  src="https://jakwoda.github.io/media/posts/1/Screenshot-2023-02-20-at-17.23.14.png" alt="" width="2062" height="1156" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jakwoda.github.io/media/posts/1/responsive/Screenshot-2023-02-20-at-17.23.14-xs.webp 300w ,https://jakwoda.github.io/media/posts/1/responsive/Screenshot-2023-02-20-at-17.23.14-sm.webp 480w ,https://jakwoda.github.io/media/posts/1/responsive/Screenshot-2023-02-20-at-17.23.14-md.webp 768w"></figure></li>
+<li><a></a><figure class="post__image"><img  src="https://jakwoda.github.io/media/posts/1/MateuszMieciekRisoPres-2.pdf" alt=""></figure><figure class="post__image"><img loading="lazy"  src="https://jakwoda.github.io/media/posts/1/Screenshot-2023-02-27-at-20.37.00.png" alt="" width="2686" height="1688" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jakwoda.github.io/media/posts/1/responsive/Screenshot-2023-02-27-at-20.37.00-xs.webp 300w ,https://jakwoda.github.io/media/posts/1/responsive/Screenshot-2023-02-27-at-20.37.00-sm.webp 480w ,https://jakwoda.github.io/media/posts/1/responsive/Screenshot-2023-02-27-at-20.37.00-md.webp 768w"></figure></li>
 </ul>
             ]]>
         </content>
