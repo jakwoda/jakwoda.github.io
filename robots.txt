@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://mieciek.com/sitemap.xml
